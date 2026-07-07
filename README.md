@@ -2,7 +2,7 @@
 ## 📖 Overview
 This project presents an end-to-end data analysis of the **Olist Brazilian E-Commerce Dataset** using **Power BI**. The objective is to transform raw e-commerce data into meaningful business insights through data cleaning, data modeling, DAX measures, and interactive dashboards.
 
-The dashboard provides a comprehensive analysis of sales performance, customer behavior, product categories, payment methods, delivery performance, and review scores to support data-driven business decision-making.
+The dashboard provides a Simple User Freindly analysis of sales performance, customer behavior, product categories, payment methods, delivery performance, and review scores to support data-driven business decision-making.
 ---
 ## 🎯 Objectives
 - Analyze overall sales performance and order trends.
